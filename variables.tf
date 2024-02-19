@@ -45,6 +45,4 @@ variable "rule_priority" {
   
 }
 
-variable "app_version" {
-  
-}
+
